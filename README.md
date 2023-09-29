@@ -48,6 +48,6 @@ This repository contains the code and resources for a deep learning project focu
 
 ## Dataset
 The dataset used for this project contains 4000+ images of 80 different food items, resized and preprocessed to a uniform size of 256 x 256 pixels.
-[Download}(https://www.kaggle.com/datasets/abhisheksubhashswami/indian-food)
+[Download](https://www.kaggle.com/datasets/abhisheksubhashswami/indian-food)
 
 Feel free to contribute, open issues, or provide feedback on this project. Happy coding!
